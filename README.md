@@ -1,4 +1,4 @@
-# QOSF-Mentorship-Screening-Tasks
+# QOSF-Mentorship-Screening-Task 2
 - Prepare 4 random 4-qubit quantum states of your choice
 - Create and train a variational circuit that transforms input states into predefined output states. Namely
     - if random state 1 is provided, it returns state |0011>
